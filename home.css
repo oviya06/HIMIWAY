@@ -1,0 +1,58 @@
+.home_backgroudColor_Whole_42{
+    max-height: 2400px;
+    background-color:white;
+    position: static;
+}
+.home_49_home{
+    background: transparent;
+    color: white;
+    border: none;
+    margin-left:25px;
+    cursor: pointer;
+}
+.home_backgroudImage_electric_66{
+    background-image: url('../assert/back2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+#home_explore_67{
+    position: absolute;
+    padding-top: 16%;
+    padding-left: 72%;
+    color: white;
+}
+#home_EBM_72{
+    background-image: url('../assert/EBM-suite.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 1000px;
+    max-width: 1500px;
+}
+.footer_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-top:20px;
+}
+.home_footer_74{
+    margin-left: 1%;
+    height: 460px;
+    width: 1440px;
+}
+.footerclass{
+    position: absolute;
+    color: white;
+}
+.paper_EBM_78{
+    height: 500px;
+    width: 700px;
+    margin-top: 20px;
+    margin-left: 2%;
+}
+.home_paper_div_1{
+    padding: 6%;
+}
+.home_paper_div_2{
+    padding: 6%;
+}

@@ -1,0 +1,16 @@
+.signup-whole{
+    background-image: url('../assert/threesum.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 745px;
+}
+.signup_box_9{
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 30%;
+    height: 400px;
+    width: 600px;
+}
+.signup_paper_10{
+    padding: 13%;
+}

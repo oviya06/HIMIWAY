@@ -1,0 +1,16 @@
+.admin-login-whole{
+    background-image: url('../assert/fly.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 745px;
+}
+.admin_login_box_9{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 30%;
+    height: 400px;
+    width: 600px;
+}
+.admin_login_paper_10{
+    padding: 13%;
+}

@@ -1,0 +1,16 @@
+.login-whole{
+    background-image: url('../assert/threesum.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 745px;
+}
+.login_box_9{
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 30%;
+    height: 400px;
+    width: 600px;
+}
+.login_paper_10{
+    padding: 13%;
+}
